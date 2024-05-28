@@ -10,4 +10,3 @@
 10. Type command 'git remote add origin "url"' and paste your https link from earlier in place of "url"
 11. Type command 'git commit -m "..."' with a commit message inside of the double quotation marks
 12. Finally type command 'git push origin main'
-13. Ok
